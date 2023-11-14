@@ -3,7 +3,7 @@ package main;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class EntradaDeDados_01 {
+public class _01_EntradaDeDados {
 
 	public static void main(String[] args) {
 		// Ponto Flutuante;

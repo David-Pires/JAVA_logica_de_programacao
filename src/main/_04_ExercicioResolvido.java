@@ -3,7 +3,7 @@ package main;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ExercicioResolvido_04 {
+public class _04_ExercicioResolvido {
 
 	public static void main(String[] args) {
 		

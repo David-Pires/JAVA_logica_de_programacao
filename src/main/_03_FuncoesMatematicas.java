@@ -1,6 +1,6 @@
 package main;
 
-public class FuncoesMatematicas_03 {
+public class _03_FuncoesMatematicas {
 
 	public static void main(String[] args) {
 		/*

@@ -2,7 +2,7 @@ package main;
 
 import java.util.Scanner;
 
-public class EntradaDeDados_02 {
+public class _02_EntradaDeDados {
 
 	public static void main(String[] args) {
 		/*
