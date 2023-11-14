@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class _12_UriOnlineJudge_1007 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// https://www.beecrowd.com.br/judge/pt/problems/view/1007
 		Scanner sc = new Scanner(System.in);
 		
 		int A, B, C, D, DIFERENCA;
