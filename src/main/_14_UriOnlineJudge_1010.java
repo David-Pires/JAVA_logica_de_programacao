@@ -33,7 +33,7 @@ public class _14_UriOnlineJudge_1010 {
 		
 		Double somaDasDuasLinhas = valorTotal1 + valorTotal2;
 		
-		System.out.printf("VALOR A PAGARA: R$ %.2f%n" , somaDasDuasLinhas );
+		System.out.printf("VALOR A PAGAR: R$ %.2f%n" , somaDasDuasLinhas );
 		
 		sc.close();
 
