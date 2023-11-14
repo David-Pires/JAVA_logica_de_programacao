@@ -16,6 +16,6 @@ public class _06_ExercíciosPropostos {
 /*
 
 1002*,1003*,1004*, 1007, 1008, 1010, 1014, 1016,1017
-1005*, 1006 - média ponderada
+1005*, 1006* - média ponderada
 
 */

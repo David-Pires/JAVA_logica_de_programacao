@@ -19,7 +19,7 @@ public class _11_UriOnlineJudge_1006 {
 		
 		MEDIA = ((A * 2) + (B * 3) + (C * 5)) / 10;
 		
-		System.out.printf("MEDIA = %.1f%n " , MEDIA);
+		System.out.printf("MEDIA = %.1f%n" , MEDIA); 
 		sc.close();
 
 	}
