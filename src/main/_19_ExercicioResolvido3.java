@@ -20,7 +20,8 @@ public class _19_ExercicioResolvido3 {
 		idade1 = sc.nextInt();
 		idade2 = sc.nextInt();
 		
-		media = (double) (idade1 + idade2) /2;
+		media = (double) (idade1 + idade2) /2;// pode colocar 2.0 no final e náo casting dessa
+		//forma força o compilador a converter para double
 		
 		System.out.printf("A idade média de %s e %s é de %.1f", nome1, nome2, media);
 		
