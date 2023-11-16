@@ -19,7 +19,8 @@ public class _15_UriOnlineJudge_1014 {
 		
 		consumoMedio = X / Y;
 		
-		System.out.printf("%.3f% km/l" ,consumoMedio);
+		System.out.printf("%.3f km/l%n", consumoMedio);
+		
 		sc.close();
 
 	}
