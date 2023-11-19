@@ -9,7 +9,7 @@ public class _20_ExerciciosPropostos {
  * 1009* - string
  * 1011* - casting
  * 1012* - geometria
- * 1013 - abs
+ * 1013* - abs
  * 1015 - sqrt, pow 
  * 
  * 
