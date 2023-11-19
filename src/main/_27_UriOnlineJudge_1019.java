@@ -2,15 +2,15 @@ package main;
 
 import java.util.Scanner;
 
-public class _26_ExercicioResolvido4 {
+public class _27_UriOnlineJudge_1019 {
 
 	public static void main(String[] args) {
 		// https://www.beecrowd.com.br/judge/pt/problems/view/1019
-		// Conversão de Tempo
+		//Conversão de Tempo
 
 		Scanner sc = new Scanner(System.in);
-		
 		int N, horas, minutos, segundos, resto;
+		
 		N = sc.nextInt();
 		
 		horas = N / 3600;
@@ -19,12 +19,24 @@ public class _26_ExercicioResolvido4 {
 		minutos = resto / 60;
 		segundos = resto % 60;
 		
-		
 		System.out.println(horas + ":" + minutos + ":" + segundos);
-		
-				
-		sc.close();
+		//System.out.println(resto);
+		//System.out.println(minutos);
+		//System.out.println(resto);
 
+		sc.close();
+		
 	}
 
 }
+/*
+580.800 / 3600
+
+
+
+
+
+
+
+
+*/
