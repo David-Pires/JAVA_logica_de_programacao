@@ -20,10 +20,6 @@ public class _27_UriOnlineJudge_1019 {
 		segundos = resto % 60;
 		
 		System.out.println(horas + ":" + minutos + ":" + segundos);
-		//System.out.println(resto);
-		//System.out.println(minutos);
-		//System.out.println(resto);
-
 		sc.close();
 		
 	}
