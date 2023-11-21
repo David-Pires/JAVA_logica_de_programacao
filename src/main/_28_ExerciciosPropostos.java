@@ -6,8 +6,8 @@ public class _28_ExerciciosPropostos {
 		// 
 /*
 
-1018 - mod
-1020 - mod
+1018* - mod
+1020* - mod
 1021 - mod / (desafio - casting)
 1061 - mod / (string - interpretação)
 
