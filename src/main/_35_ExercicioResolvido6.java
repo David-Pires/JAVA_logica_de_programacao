@@ -17,7 +17,7 @@ public class _35_ExercicioResolvido6 {
 		
 		Double somaNotas = nota1 + nota2;
 		
-		if (somaNotas > 60.00) {
+		if (somaNotas >= 60.00) {
 			System.out.printf("NOTA FINAL = %.1f%n", somaNotas);
 		} else {
 			
