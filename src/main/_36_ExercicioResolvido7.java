@@ -26,11 +26,7 @@ public class _36_ExercicioResolvido7 {
 			Double r2 = (-B - Math.sqrt(calculo1)) / (2.0 * A);
 			System.out.printf("R1 = %.5f%n", r1);
 			System.out.printf("R2 = %.5f%n", r2);
-		}
-		
-		
-		
-		
+		}		
 		
 		sc.close();
 	}
