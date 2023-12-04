@@ -12,17 +12,17 @@ public class _41_UriOnlineJudge_1037 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		float numero = sc.nextFloat();
+		double numero = sc.nextDouble();
 		
-		if (numero >= 0 && numero <= 25) {
-			System.out.println("Intervalo (0,25]");
-		} else if (numero > 25 && numero <= 50) {
+		if (numero >= 0 && numero <= 25.0000) {
+			System.out.println("Intervalo [0,25]");
+		} else if (numero > 25.00001 && numero <= 50.0000000) {
 			System.out.println("Intervalo (25,50]");			
-		} else if (numero > 50 && numero <= 75) {
+		} else if (numero > 50.00001 && numero <= 75.0000000) {
 			System.out.println("Intervalo (50,75]");			
-		} else if (numero > 75 && numero <= 100) {
+		} else if (numero > 75.00001 && numero <= 100.0000000) {
 			System.out.println("Intervalo (75,100]");			
-		} else {
+		} else if (numero <0.0 || numero > 100.0 ){
 			System.out.println("Fora de intervalo");
 		}
 		
